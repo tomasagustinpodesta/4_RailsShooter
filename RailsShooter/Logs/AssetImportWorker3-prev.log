@@ -15,7 +15,7 @@ C:/Users/tomas/OneDrive/Desktop/Unity/Proyects/4_RailsShooter/RailsShooter
 -logFile
 Logs/AssetImportWorker3.log
 -srvPort
-59618
+64642
 Successfully changed project path to: C:/Users/tomas/OneDrive/Desktop/Unity/Proyects/4_RailsShooter/RailsShooter
 C:/Users/tomas/OneDrive/Desktop/Unity/Proyects/4_RailsShooter/RailsShooter
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/Users/tomas/OneDrive/Desktop/Unity/Proyects/4_RailsShooter/RailsShooter
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [23780] Host "[IP] 192.168.100.38 [Port] 0 [Flags] 2 [Guid] 1221759727 [EditorId] 1221759727 [Version] 1048832 [Id] WindowsEditor(7,Hermeus) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [972] Host "[IP] 192.168.100.38 [Port] 0 [Flags] 2 [Guid] 2695000645 [EditorId] 2695000645 [Version] 1048832 [Id] WindowsEditor(7,Hermeus) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [23780] Host "[IP] 192.168.100.38 [Port] 0 [Flags] 2 [Guid] 1221759727 [EditorId] 1221759727 [Version] 1048832 [Id] WindowsEditor(7,Hermeus) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [972] Host "[IP] 192.168.100.38 [Port] 0 [Flags] 2 [Guid] 2695000645 [EditorId] 2695000645 [Version] 1048832 [Id] WindowsEditor(7,Hermeus) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 107.92 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 46.05 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.16f1 (4016570cf34f)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Resources/UnitySubsystems
@@ -67,92 +67,92 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56168
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56048
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.005712 seconds.
+Registered in 0.002899 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 93.64 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 49.32 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.798 seconds
+- Completed reload, in  0.400 seconds
 Domain Reload Profiling:
-	ReloadAssembly (798ms)
-		BeginReloadAssembly (90ms)
+	ReloadAssembly (400ms)
+		BeginReloadAssembly (45ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (559ms)
-			LoadAssemblies (88ms)
+		EndReloadAssembly (284ms)
+			LoadAssemblies (44ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (121ms)
+			SetupTypeCache (70ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (38ms)
-			SetupLoadedEditorAssemblies (336ms)
+			RebuildScriptCaches (19ms)
+			SetupLoadedEditorAssemblies (162ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (13ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (94ms)
-				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (172ms)
-				ProcessInitializeOnLoadMethodAttributes (54ms)
+				RefreshPlugins (49ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (77ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005459 seconds.
+Registered in 0.002919 seconds.
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\tomas\OneDrive\Desktop\Unity\Proyects\4_RailsShooter\RailsShooter\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\tomas\OneDrive\Desktop\Unity\Proyects\4_RailsShooter\RailsShooter\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.59 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.227 seconds
+- Completed reload, in  0.647 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1228ms)
-		BeginReloadAssembly (133ms)
+	ReloadAssembly (648ms)
+		BeginReloadAssembly (64ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (9ms)
+			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (20ms)
-		EndReloadAssembly (959ms)
-			LoadAssemblies (88ms)
+			CreateAndSetChildDomain (12ms)
+		EndReloadAssembly (513ms)
+			LoadAssemblies (46ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (315ms)
+			SetupTypeCache (163ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (59ms)
-			SetupLoadedEditorAssemblies (450ms)
+			RebuildScriptCaches (31ms)
+			SetupLoadedEditorAssemblies (244ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (7ms)
-				SetLoadedEditorAssemblies (1ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (99ms)
-				ProcessInitializeOnLoadAttributes (294ms)
-				ProcessInitializeOnLoadMethodAttributes (41ms)
-				AfterProcessingInitializeOnLoad (7ms)
+				InitializePlatformSupportModulesInManaged (4ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (56ms)
+				ProcessInitializeOnLoadAttributes (163ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.41 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3496 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 36 unused Assets / (1.3 MB). Loaded Objects now: 3965.
-Memory consumption went from 141.1 MB to 139.8 MB.
-Total: 5.032500 ms (FindLiveObjects: 0.248000 ms CreateObjectMapping: 0.109300 ms MarkObjects: 4.461800 ms  DeleteObjects: 0.212000 ms)
+Unloading 3497 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 36 unused Assets / (1.3 MB). Loaded Objects now: 3966.
+Memory consumption went from 140.8 MB to 139.6 MB.
+Total: 2.294100 ms (FindLiveObjects: 0.178400 ms CreateObjectMapping: 0.079300 ms MarkObjects: 1.907600 ms  DeleteObjects: 0.128000 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -167,132 +167,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 66680.347756 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 2.prefab
-  artifactKey: Guid(72150aec3c8e6054bb4f416458883f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 2.prefab using Guid(72150aec3c8e6054bb4f416458883f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e39c0b48e2e007f1043ea5368146ccb') in 0.867505 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000039 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 4.prefab
-  artifactKey: Guid(625fd1007752d76498008e8d618ebf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 4.prefab using Guid(625fd1007752d76498008e8d618ebf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23bb8744dff5bd427136d1fbb5466589') in 0.760433 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000056 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 3.prefab
-  artifactKey: Guid(eaaa31bc0db61bf448d8bbdf1a216cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 3.prefab using Guid(eaaa31bc0db61bf448d8bbdf1a216cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d6d0944e0fb6d5ce4d66bb9d627f5f1') in 0.258639 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 32.299353 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 2.prefab
-  artifactKey: Guid(72150aec3c8e6054bb4f416458883f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 2.prefab using Guid(72150aec3c8e6054bb4f416458883f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e63256dd9a9617029958042e24bcd041') in 0.666333 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 4.prefab
-  artifactKey: Guid(625fd1007752d76498008e8d618ebf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 4.prefab using Guid(625fd1007752d76498008e8d618ebf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3fab364e16cdfcf475dbb73721c81cc') in 0.638405 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000046 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 3.prefab
-  artifactKey: Guid(eaaa31bc0db61bf448d8bbdf1a216cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 3.prefab using Guid(eaaa31bc0db61bf448d8bbdf1a216cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84d097ece412c0e9d188b4f6d763b3dc') in 0.255343 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 32.629415 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 2.prefab
-  artifactKey: Guid(72150aec3c8e6054bb4f416458883f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 2.prefab using Guid(72150aec3c8e6054bb4f416458883f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ade4eb5e68b475ed3f3a814f721029c1') in 0.779450 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000034 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 4.prefab
-  artifactKey: Guid(625fd1007752d76498008e8d618ebf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 4.prefab using Guid(625fd1007752d76498008e8d618ebf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcec1750068335aab01fbef90ecfff93') in 0.689927 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 3.prefab
-  artifactKey: Guid(eaaa31bc0db61bf448d8bbdf1a216cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 3.prefab using Guid(eaaa31bc0db61bf448d8bbdf1a216cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f837451f206fcb9c08fa00ad5a98c9') in 0.268487 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 34.019445 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 2.prefab
-  artifactKey: Guid(72150aec3c8e6054bb4f416458883f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 2.prefab using Guid(72150aec3c8e6054bb4f416458883f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '350730c5d66d23e69e14988c200bc078') in 0.880959 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 4.prefab
-  artifactKey: Guid(625fd1007752d76498008e8d618ebf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 4.prefab using Guid(625fd1007752d76498008e8d618ebf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8896bef69a157c14379bfac9debc18b6') in 0.660422 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 3.prefab
-  artifactKey: Guid(eaaa31bc0db61bf448d8bbdf1a216cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 3.prefab using Guid(eaaa31bc0db61bf448d8bbdf1a216cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16bb38032796f638b6f6e39500cb7ec7') in 0.243635 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 32.731857 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 2.prefab
-  artifactKey: Guid(72150aec3c8e6054bb4f416458883f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 2.prefab using Guid(72150aec3c8e6054bb4f416458883f8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee29d64c8709acb6cc198483f7e0fba9') in 0.656664 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000032 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 4.prefab
-  artifactKey: Guid(625fd1007752d76498008e8d618ebf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 4.prefab using Guid(625fd1007752d76498008e8d618ebf81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25b177b06f8b402c438c983b3d060cf8') in 0.648399 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000045 seconds.
-  path: Assets/Terrain/Structures/Extended/LS 3.prefab
-  artifactKey: Guid(eaaa31bc0db61bf448d8bbdf1a216cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Structures/Extended/LS 3.prefab using Guid(eaaa31bc0db61bf448d8bbdf1a216cc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f6338e00b8c17627b855332d73fc394') in 0.261661 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 39.785634 seconds.
-  path: Assets/Terrain/Sprites/CL 3.prefab
-  artifactKey: Guid(5498fb59e1bc66049af21e281b121ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Sprites/CL 3.prefab using Guid(5498fb59e1bc66049af21e281b121ebe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c5c8b69badd86ac4b96af74be31e79f') in 0.218732 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000052 seconds.
-  path: Assets/Terrain/Sprites/CL 4.prefab
-  artifactKey: Guid(44253bfa714cb7641a61492f465593eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Sprites/CL 4.prefab using Guid(44253bfa714cb7641a61492f465593eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd992500414ca857d69ef778ab6ebbdec') in 0.151481 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000057 seconds.
-  path: Assets/Terrain/Sprites/Compund Light.prefab
-  artifactKey: Guid(0cfd9be2981c33349bf20c0d7b2d88ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Sprites/Compund Light.prefab using Guid(0cfd9be2981c33349bf20c0d7b2d88ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7976baaa922d70247024dfa2a00ff930') in 0.255983 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 3.733425 seconds.
-  path: Assets/Terrain/S C Light/SCL 3.prefab
-  artifactKey: Guid(ba691a164f0297c459863b335593a081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/S C Light/SCL 3.prefab using Guid(ba691a164f0297c459863b335593a081) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0625e83291438bff959e01e8d693e526') in 0.592289 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000038 seconds.
-  path: Assets/Terrain/S C Light/SCL 5.prefab
-  artifactKey: Guid(24156175b1b5f254da42ac5034ee35f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/S C Light/SCL 5.prefab using Guid(24156175b1b5f254da42ac5034ee35f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70d710a8aced715b6cde1b9f9b80b4e3') in 0.572442 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 4.503335 seconds.
-  path: Assets/Terrain/Sprite Comp/SC 3.prefab
-  artifactKey: Guid(97b73b667bc98594c86f9cbb0cc49990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Terrain/Sprite Comp/SC 3.prefab using Guid(97b73b667bc98594c86f9cbb0cc49990) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27da0200e491b157d3efcfe49da4ef65') in 0.082880 seconds 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorkerClient::OnTransportError - code=2 error=End of file
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+  Time since last request: 136452.476946 seconds.
+  path: Assets/AntiLAg/Low LS (2) 1.prefab
+  artifactKey: Guid(ebaaff3dc9a4ff8409396fc1138ba765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AntiLAg/Low LS (2) 1.prefab using Guid(ebaaff3dc9a4ff8409396fc1138ba765) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65a25748290925c66a699753291d8559') in 0.041118 seconds 
